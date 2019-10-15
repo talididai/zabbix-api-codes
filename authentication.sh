@@ -1,8 +1,9 @@
 #!/bin/bash
 URL='https://zabbix.com/api_jsonrpc.php'
 HEADER='Content-Type:application/json'
-
+#Username
 USER='""'
+#Password
 PASS='""'
 
 autenticacao()
